@@ -1,13 +1,13 @@
-#Curriculum vitae
+# Curriculum vitae
 ---------
-##Katsiaryna Yakimuk
+## Katsiaryna Yakimuk
 **Contacts:**
 Tel: +48794921819
 E-mail: katarzynayakimuk94@gmail.com
 [Linkedin](https://www.linkedin.com/in/katsiaryna-yakimuk-76266912b/)
-_______
+----------
 
-####**Professional Experience:**
+#### **Professional Experience:**
 - *06/2020 - Present*
   Specialist in Fund Dealing Services
 
@@ -35,7 +35,7 @@ Bachelor's degree. Faculty: International Economics. Bachelor thesis: external r
 Study of Polish Language for Foreigners 
 
 
-####**Qualifications:**                             
+#### **Qualifications:**                             
  - MS Office 
  - Easy in communication (open, optimistic) 
  - Ability to work under the pressure of time 
@@ -45,15 +45,15 @@ Study of Polish Language for Foreigners
  - HTML, SCC
 
 
-#####**Languages:**
+##### **Languages:**
  - Russian (native)
  - Polish C1 
  - English C1
 ***************
-#####**Projects:**
+##### **Projects:**
 [CV](https://github.com/Katya911/rsschool-cv)
 
-#####**Code example:**
+##### **Code example:**
 Simple web-page
 ```
 <h1>Волшебный приют для Поттероманов</h1>
