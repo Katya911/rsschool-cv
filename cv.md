@@ -1,9 +1,9 @@
 # Curriculum vitae
 ---------
 ## Katsiaryna Yakimuk
-**Contacts:**
-Tel: +48794921819
-E-mail: katarzynayakimuk94@gmail.com
+**Contacts:**  
+Tel: +48794921819  
+E-mail: katarzynayakimuk94@gmail.com  
 [Linkedin](https://www.linkedin.com/in/katsiaryna-yakimuk-76266912b/)
 ----------
 
@@ -22,7 +22,7 @@ Internship in Financial Services Audit. KPMG Poland
  - *04-09/2018*
 Project Management Internship. Accenture
 
-####**Education:**
+#### **Education:**
 
 - 2016/10 – 2019/10 
 Warsaw School of Economics 
@@ -45,15 +45,15 @@ Study of Polish Language for Foreigners
  - HTML, SCC
 
 
-##### **Languages:**
+#### **Languages:**
  - Russian (native)
  - Polish C1 
  - English C1
 ***************
-##### **Projects:**
+#### **Projects:**
 [CV](https://github.com/Katya911/rsschool-cv)
 
-##### **Code example:**
+#### **Code example:**
 Simple web-page
 ```
 <h1>Волшебный приют для Поттероманов</h1>
