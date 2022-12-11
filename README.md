@@ -1,1 +1,1 @@
-https://katya911.github.io/rsschool-cv/cv
+git push --set-upstream origin rsschool-cv-html
