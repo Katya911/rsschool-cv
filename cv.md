@@ -5,7 +5,6 @@
 Tel: +48794921819  
 E-mail: katarzynayakimuk94@gmail.com  
 [Linkedin](https://www.linkedin.com/in/katsiaryna-yakimuk-76266912b/)
-----------
 
 #### **Professional Experience:**
 - *06/2020 - Present*
@@ -48,8 +47,10 @@ Study of Polish Language for Foreigners
 #### **Languages:**
  - Russian (native)
  - Polish C1 
- - English C1
-***************
+ - English C1  
+
+---------
+
 #### **Projects:**
 [CV](https://github.com/Katya911/rsschool-cv)
 
