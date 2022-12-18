@@ -1,3 +1,132 @@
-* {
-    font-size: 18px;
+.header {
+    text-align: center;
+    font-weight: bold;
+    background-color: #F0F0F0;
+    color: black;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.navigation-li {
+    text-align: center;
+    display: inline;
+}
+
+.contacts-navigation,
+.experience-navigation,
+.education-navigation,
+.qualifiacation-navigation,
+.languages-navigation,
+.projects-navigation {
+    color: black;
+    text-decoration-line: none;
+    padding: 30px;
+}
+
+.contacts-ul,
+.languages-ul,
+.projects-li {
+    list-style-type: none;
+}
+
+.experience-ul,
+.qualifications-ul,
+.education-ul {
+    list-style-type: circle;
+    padding-left: 30px;
+}
+
+.my-name {
+    text-align: center;
+    font-weight: bold;
+    text-shadow: 0cm;
+    text-transform: capitalize;
+}
+
+.my-photo {
+    margin-right: 0px;
+    float: none;
+    width: -webkit-fill-available;
+}
+
+body {
+    text-align: left;
+    padding-left: 20px;
+    background-color: #F8F8F8;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+
+footer {
+    text-align: center;
+    border: dotted;
+    background-color: #F0F0F0;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.footer-li {
+    text-align: center;
+    display: inline;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.navigation-li {
+    display: inline;
+}
+
+.cv {
+    display: flex;
+}
+
+.container-left {
+    width: 30%;
+    background-color: #708090;
+    color: white;
+}
+
+.container-right {
+    width: 70%;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 10px;
+}
+
+.contacts-h2,
+.languages-h2,
+.projects-h2,
+.qualification-h2,
+.langiages-h2,
+.education-h2,
+.experience-h2,
+.code-example-h2,
+.code-example-description,
+.projects-lt {
+    padding-left: 20px;
+}
+
+.link-to-discord,
+.link-to-linkedin,
+.cv-project-example {
+    color: white;
+    text-decoration-line: none;
+}
+
+.rsschool-logo-link,
+.mygit-hub-link {
+    padding: 30px;
+    text-align: center;
+}
+
+.code-example {
+    white-space: pre-line;
+    padding: 20px;
+}
+
+.code-example-description {
+    margin-bottom: 0px;
 }
