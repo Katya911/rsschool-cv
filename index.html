@@ -2,14 +2,112 @@
 <html lang="en">
 
 <head>
-    <meta charset="utf-8">
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Katsiaryna Yakimuk CV</title>
     <link rel="stylesheet" href="style.css">
+    <title>Katsiaryna Yakimuk CV</title>
 </head>
 
 <body>
-    <p>Test message to see the app works</p>
+    <header class="header">
+        <nav class="navigation">
+            <ul>
+                <li class="navigation-li"><a class="contacts-navigation" href="#contacts">Contacts</a></li>
+                <li class="navigation-li"><a class="experience-navigation" href="#experience">Experience</a></li>
+                <li class="navigation-li"><a class="education-navigation" href="#education">Education</a></li>
+                <li class="navigation-li"><a class="qualifiacation-navigation" href="#qualifications">Qualifications</a></li>
+                <li class="navigation-li"><a class="languages-navigation" href="#languages">Languages</a></li>
+                <li class="navigation-li"><a class="projects-navigation" href="#projects">Projects</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main class="cv">
+        <div class="container-left">
+            <section id="contacts">
+                <img class="my-photo" src="https://media.licdn.com/dms/image/C4E03AQHUs4eFpbcqiw/profile-displayphoto-shrink_400_400/0/1603530213063?e=1676505600&v=beta&t=YWqxe5FaO2c7T-hKklyhx4FGIUs2ENvtqSXBRN4DBHw" alt="my photo" width="200" height="400">
+                <h2 class="contacts-h2">Contacts:</h2>
+                <ul class="contacts-ul">
+                    <li><a class="link-to-discord" href="https://discord.com/channels/@me">Discord</a></li>
+                    <li><a class="link-to-linkedin" href="https://www.linkedin.com/in/katsiaryna-yakimuk-76266912b/">Linkedin</a></li>
+                </ul>
+            </section>
+            <section id="languages">
+                <h2 class="languages-h2">Languages:</h2>
+                <ul class="languages-ul">
+                    <li>Russian (Native)</li>
+                    <li>Polish C1</li>
+                    <li>English C1</li>
+                </ul>
+            </section>
+            <section id="projects">
+                <h2 class="projects-h2">Projects:</h2>
+                <ul class="projects-ul>">
+                    <li class="projects-li"><a class="cv-project-example" href="https://github.com/Katya911/rsschool-cv">CV project</a></li>
+                </ul>
+            </section>
+        </div>
+        <div class="container-right">
+            <h1 class="my-name">Katsiaryna Yakimuk</h1>
+            <section id="experience">
+                <h2 class="experience-h2">Professional Experience:</h2>
+                <ul class="experience-ul">
+                    <li>06/2020 - Present
+                        <br>Specialist in Fund Dealing Services</li>
+                    <li>2019/10 - 05/2020
+                        <br>Optical Character Recognition Specialist in CBRE Corporate Outsourcing</li>
+                    <li>10/2018 - 08/2019
+                        <br>Internship in Financial Services Audit. KPMG Poland</li>
+                    <li>04-09/2018
+                        <br>Project Management Internship. Accenture</li>
+                </ul>
+            </section>
+            <section id="education">
+                <h2 class="education-h2">Education:</h2>
+                <ul class="education-ul">
+                    <li>2016/10 – 2019/10
+                        <br>Warsaw School of Economics Master's degree. Faculty: Finance and Accounting, specialization: Taxes </li>
+                    <li>2013/10 - 2016/08 - Warsaw School of Economics Bachelor's degree.
+                        <br>Faculty: International Economics. Bachelor thesis:
+                        <br>External relations between Belarus and European Union</li>
+                    <li>2012/10 - 2013/08
+                        <br>Wroclaw University of Science and Technology Study of Polish Language for Foreigners</li>
+                </ul>
+            </section>
+            <section id="qualifications">
+                <h2 class="qualification-h2">Qualifications:</h2>
+                <ul class="qualifications-ul">
+                    <li>MS Office</li>
+                    <li>Easy in communication (open, optimistic)</li>
+                    <li>Ability to work under the pressure of time</li>
+                    <li>Stress resistant</li>
+                    <li>Ability to work in a team (subordination to the decisions of the leader, supporting colleagues)</li>
+                    <li>People Soft, OCR, OMS, Microsoft Dynamics, Service Now</li>
+                    <li>GIT, HTML, CSS, JS - in progress</li>
+                </ul>
+            </section>
+            <section id="code-example">
+                <h2 class="code-example-h2">Code Example:</h2>
+                <p class="code-example-description">Sum of numbers in array:</p>
+                <pre class="code-example">
+                  let array = [10, 20, 30, 40, 50];
+                  let sum = 0;
+                  for (let i = 0; i &lt; array.length; i++) {
+                  &nbsp; &nbsp; sum += array[i];
+                  }
+                  console.log(sum);
+                </pre>
+            </section>
+        </div>
+    </main>
+    <footer class="footer">
+        <ul class="footer-ul">
+            <li class="footer-li">by Katsiaryna Yakimuk 2022</li>
+            <li class="footer-li"><a class="mygit-hub-link" href="https://github.com/Katya911">My GitHub</a></li>
+            <li class="footer-li">
+                <a class="rsschool-logo-link" href="https://rs.school/js/"><img src="https://rs.school/images/rs_school_js.svg" alt="RS School logo" width="100" height="100"></a>
+            </li>
+        </ul>
+    </footer>
 </body>
 
 </html>
